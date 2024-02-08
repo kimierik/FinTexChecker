@@ -21,4 +21,8 @@ the program checks the file extention of the file. if it is a .tex file then it 
 
 
 
+## Todo
+ - finnish .tex format stripping
+ - ability to ignore certain words from spell/grammar checker
+
 
