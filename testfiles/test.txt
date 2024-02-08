@@ -1,0 +1,3 @@
+tämä on esimerki teksiä jossa on kirjoitusvirhjeitä ja ri ole kunnolla formatoitu.
+tässä tekstissä pitäisi olla monenlaisiä virheitä joten kirjoitan sen vähän huolimattomasti.
+Jotta tästä olisi mitään järkeä tarvitaan testi caset myös plain texti muodossa jne.
