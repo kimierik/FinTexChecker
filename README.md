@@ -1,5 +1,5 @@
 # FiTexChecker
-cli tool grammar and spell and grammar checking for txt and tex files in the finnish language  
+cli tool for grammar and spell checking for txt and tex files in the finnish language  
   
 
 ## depends on...
